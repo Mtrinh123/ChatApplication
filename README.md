@@ -1,2 +1,3 @@
 # ChatApplication
-CSCI 3010
+Server and Client Program
+
